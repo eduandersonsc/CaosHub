@@ -28,8 +28,5 @@ Para executar o script, utilize seu executor de preferência e insira o código 
 > **Nota:** Este projeto foi criado para fins de estudo e entretenimento. Use com responsabilidade.
 
 ## 👨‍💻 Créditos:
-Criado por: **[@eduandersonsc](https://www.google.com/search?q=https://github.com/EduGamerBrother)**
+Criado por: **[@eduandersonsc](https://github.com/eduandersonsc)**
 *Comunidade no Discord:* [discord.me/caosville](https://discord.me/caosville)
-
-### Gostou do projeto?
-Deseja que eu ajude a criar o arquivo `README.md` completo ou prefere que eu adicione uma seção de "Como Contribuir"?
